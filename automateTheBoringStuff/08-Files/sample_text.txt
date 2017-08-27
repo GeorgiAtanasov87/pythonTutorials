@@ -1,10 +1,1 @@
-Lorem ipsum ADJECTIVE sit amet, consectetur adipiscing elit. Suspendisse sit amet velit vel nulla vestibulum consequat. Curabitur rutrum augue mi, non elementum est laoreet eget. Fusce id ornare nibh, vel vestibulum quam. Curabitur eros mi, finibus non urna et, cursus lobortis ante. Vestibulum quis VERB ante. Etiam eu dapibus NOUN, ac pharetra massa. Nullam ullamcorper turpis at porttitor ultricies. Donec vitae convallis neque, mollis imperdiet ex. Pellentesque egestas ex a ante aliquam, sed hendrerit lectus iaculis. Integer sagittis urna in tempus eleifend. Donec sagittis purus pellentesque elit sollicitudin volutpat. Morbi et risus faucibus, finibus dui eu, tincidunt sapien.
-
-Integer eget ligula viverra, euismod orci non, vestibulum tellus. Nulla bibendum nibh id diam aliquam, at semper nisi sollicitudin. Aenean ut augue accumsan, vulputate elit vel, rhoncus tortor. Quisque sit amet urna eu dui eleifend tempus. Curabitur gravida augue ac massa rhoncus tempor. Ut feugiat NOUN nunc. Maecenas finibus dignissim sagittis. Nam eget sodales mauris.
-
-Curabitur consequat arcu id est ADJECTIVE, sed euismod augue sagittis. Integer ornare turpis at pharetra luctus. Vivamus lacus turpis, volutpat nec aliquet vitae, dignissim vel tellus. Sed dolor ligula, ultrices nec mauris at, tristique porta orci. Morbi dignissim mattis lacus, in varius risus tincidunt nec. Sed a ullamcorper justo, quis egestas lorem. Duis efficitur velit nec risus viverra, rhoncus vehicula libero gravida. Morbi fermentum elit quis tristique ultricies. Vestibulum fringilla laoreet egestas. Etiam fermentum dui ut orci ornare, id vestibulum felis dapibus. Fusce ac mauris eu lorem cursus finibus id vel risus. Proin id sapien et nisl varius suscipit at dignissim odio. Aliquam erat volutpat. Aenean semper tellus felis, id placerat sem vehicula vel. Sed vitae mi magna. Maecenas interdum finibus nunc sed sodales.
-
-Test text: VERB, NOUN and an ADJECTIVE
-
-The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was
-unaffected by these events.
+The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was unaffected by these events.
