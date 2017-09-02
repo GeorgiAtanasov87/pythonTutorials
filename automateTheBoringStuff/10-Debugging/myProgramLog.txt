@@ -1,0 +1,2 @@
+2017-09-10 15:54:23,257 - DEBUG - This is 1st test eror msg
+2017-09-10 15:55:18,824 - WARNING - This is 2nd error msg (warning)
